@@ -1,0 +1,22 @@
+div.oya-{
+    display:flex;
+}
+div.live{
+    background:rgd(250,91,91);
+    width: 33%
+    height: 100px;
+    padding: 1.5% 0 0 0%}
+
+div.tp{
+    background:#63cdf3;
+    width: 34%;
+    height: 100%;
+    padding: 1.5% 0 0 0%;
+}
+div.eat{
+    background: rgb(202,253,126);
+    width: 33%;
+    height: 100px;
+    padding: 1.5% 0 0 0%;}
+
+
