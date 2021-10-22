@@ -1,37 +1,34 @@
-/*マルチメディアシステム概論*/
 
-/*デフォルトの設定*/
 *{margin:0;padding:0}
 
-/*ヘッダの設定*/
 div.he{
-	/*ボックスの設定*/
-	padding: 0 0 0 2%;/*枠内余白（上右下左）*/
-	background: #2AB8EA;/*背景色*/
-	/*文字の設定*/
-	color: white;/*文字の色*/
+
+	padding: 0 0 0 2%;
+	background: #2AB8EA;
+	
+	color: white;
 }
-/*親コンテナの設定*/
+
 div.oy{
-	/*ボックスの配置*/
+	
 	display:flex;
 }
-/*コンテンツの設定*/
+
 div.co{
-	/*ボックスの設定*/
-	width: 50%;/*幅*/
-	height: 800px;/*高さ*/
-	padding: 0 0 0 2%;/*枠内余白（上右下左）*/
-	background: #f2f5b7;/*背景色*/
+	
+	width: 50%;
+	height: 800px;
+	padding: 0 0 0 2%;
+	background: #f2f5b7;
 
 }
-/*ナビの設定*/
+
 div.na{
-	/*ボックスの配置*/
-	width: 50%;/*幅*/
-	height: 800px;/*高さ*/
-	padding: 0 0 0 2%;/*枠内余白（上右下左）*/
-	background: #cbd7fd;/*背景色*/
+	
+	width: 50%;
+	height: 800px;
+	padding: 0 0 0 2%;
+	background: #cbd7fd;
 }
 p.yokotekisuto{
 	display:inline-block;
@@ -46,13 +43,13 @@ p.yokotekisuto{
 div.oya{
 	display:flex;
 }
-/*フッターの設定*/
+
 div.fo{
-	/*ボックスの設定*/
+	
 	width: 50%;
 	height: 800px;
-	padding: 0 0 0 2%;/*枠内余白（上右下左）*/
-	background: #c7fafa;/*背景色*/
+	padding: 0 0 0 2%;
+	background: #c7fafa;
 }
 div.yoko{
 	background: rgb(255, 233, 193);
